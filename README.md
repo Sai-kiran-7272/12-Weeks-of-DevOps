@@ -7,6 +7,7 @@ Learn, Upskill, and Grow with the DevOps Community
 Welcome to the 12 Weeks of DevOps Challenge! This structured learning plan is designed to help you systematically master DevOps concepts over 12 weeks. Whether you're a beginner or an experienced engineer, this challenge will guide you through essential DevOps topics, from networking fundamentals to advanced tools like Kubernetes, Terraform, and ArgoCD.
 
 📅 Weekly Learning Plan
+
 🔹 Week 1: Networking Basics (OSI Model, TCP/IP, DNS, Load Balancers)
 🔹 Week 2: Linux Essentials (Commands, Permissions, Shell Scripting)
 🔹 Week 3: Git and GitHub (Version Control, Branching, Pull Requests)
