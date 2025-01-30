@@ -9,16 +9,27 @@ Welcome to the 12 Weeks of DevOps Challenge! This structured learning plan is de
 📅 Weekly Learning Plan
 
 🔹 Week 1: Networking Basics (OSI Model, TCP/IP, DNS, Load Balancers)
+
 🔹 Week 2: Linux Essentials (Commands, Permissions, Shell Scripting)
+
 🔹 Week 3: Git and GitHub (Version Control, Branching, Pull Requests)
+
 🔹 Week 4: Containers (Docker, Docker Compose)
+
 🔹 Week 5: CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)
+
 🔹 Week 6: Kubernetes (K8s Basics, Pods, Services, Deployments)
+
 🔹 Week 7: Infrastructure as Code (Terraform, CloudFormation, Ansible)
+
 🔹 Week 8: Monitoring and Logging (Prometheus, Grafana, ELK Stack)
+
 🔹 Week 9: Cloud Fundamentals (AWS, Azure, or GCP Basics)
+
 🔹 Week 10: Security in DevOps (Secrets Management, OWASP, DevSecOps)
+
 🔹 Week 11: Advanced DevOps (Helm, Service Mesh, ArgoCD)
+
 🔹 Week 12: Final Project & Review (End-to-End DevOps Workflow)
 
 📖 How to Participate
