@@ -1,10 +1,13 @@
 # 12-Weeks-of-DevOps
 🚀 12 Weeks of DevOps – #90DaysOfDevOps Master DevOps in 12 weeks! This challenge covers Networking, Linux, Git, Docker, CI/CD, Kubernetes, IaC, Monitoring, Cloud, Security, and more. 
 
+
 🚀 12 Weeks of DevOps – #90DaysOfDevOps
 Learn, Upskill, and Grow with the DevOps Community
 
+
 Welcome to the 12 Weeks of DevOps Challenge! This structured learning plan is designed to help you systematically master DevOps concepts over 12 weeks. Whether you're a beginner or an experienced engineer, this challenge will guide you through essential DevOps topics, from networking fundamentals to advanced tools like Kubernetes, Terraform, and ArgoCD.
+
 
 📅 Weekly Learning Plan
 
@@ -32,10 +35,15 @@ Welcome to the 12 Weeks of DevOps Challenge! This structured learning plan is de
 
 🔹 Week 12: Final Project & Review (End-to-End DevOps Workflow)
 
+
 📖 How to Participate
+
 1️⃣ Fork this repository.
+
 2️⃣ Learn and document your daily progress in the respective week's folder.
+
 3️⃣ Engage with the community, check out others' learnings, and contribute.
+
 4️⃣ Showcase your progress on LinkedIn with #90DaysOfDevOps.
 
 💡 Whether you're preparing for DevOps roles, certifications, or simply upskilling, this challenge will help you build hands-on expertise.
