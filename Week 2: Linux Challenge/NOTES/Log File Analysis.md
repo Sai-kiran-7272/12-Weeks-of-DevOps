@@ -190,4 +190,4 @@ grep "error" My_Linux.log | sort | uniq -c | sort -nr | head -10
 
 🚀 **Next Steps:** Try these commands on **real system logs** like `/var/log/syslog` and `/var/log/auth.log`.  
 
-Got questions? Let’s discuss! 😊 Happy learning! 🎯
+Got questions? Let’s discuss! **#Learn2getherGrow2gether** 😊 Happy learning! 🎯
