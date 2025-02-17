@@ -108,6 +108,8 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **4️⃣ Volume Management & Disk Usage**  
 📖 Learn **disk partitions, mounting, and storage management**.  
 
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/Volume%20Management%20%26%20Disk%20Usage.md)
+
 🛠 **Task:**  
 - Create a new directory:  
   ```bash
