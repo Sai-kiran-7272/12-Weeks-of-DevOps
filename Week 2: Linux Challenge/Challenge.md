@@ -29,6 +29,8 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **1️⃣ User & Group Management**  
 📖 Learn about **Linux users, groups, and permissions** (`/etc/passwd`, `/etc/group`).  
 
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/User%20%26%20Group%20Management.md)
+
 🛠 **Task:**  
 - Create a user **devops_user** and add them to a group **devops_team**  
   ```bash
@@ -45,12 +47,15 @@ You'll perform **real-world system administration tasks**, including:
   ```bash
   echo "DenyUsers test_user" | sudo tee -a /etc/ssh/sshd_config
   sudo systemctl restart sshd
+  
   ```
 
 ---
 
 ### 🔹 **2️⃣ File & Directory Permissions**  
-📖 Understand **ownership & permission levels** (`chmod`, `chown`, `ls -l`).  
+📖 Understand **ownership & permission levels** (`chmod`, `chown`, `ls -l`). 
+
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/File%20%26%20Directory%20Permissions.md)
 
 🛠 **Task:**  
 - Create a **workspace** directory and a file  
