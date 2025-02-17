@@ -133,6 +133,8 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **5️⃣ Process Management & Monitoring**  
 📖 Learn **how to monitor and control running processes**.  
 
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/Process%20Management%20and%20Monitoring.md)
+
 🛠 **Task:**  
 - Start a background process:  
   ```bash
