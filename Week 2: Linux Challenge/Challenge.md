@@ -29,7 +29,7 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **1️⃣ User & Group Management**  
 📖 Learn about **Linux users, groups, and permissions** (`/etc/passwd`, `/etc/group`).  
 
-[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/User%20%26%20Group%20Management.md)
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/User%20%26%20Group%20Management.md)
 
 🛠 **Task:**  
 - Create a user **devops_user** and add them to a group **devops_team**  
