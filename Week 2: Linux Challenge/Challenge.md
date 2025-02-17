@@ -83,24 +83,24 @@ You'll perform **real-world system administration tasks**, including:
 🛠 **Task:**  
 - Download the sample log file:  
   ```bash
-  wget https://raw.githubusercontent.com/loghub/Linux_2k.log -O Linux_2k.log
+  wget https://raw.githubusercontent.com/loghub/My_Linux.log -O My_Linux.log
   ```
 - Extract insights using:  
   - **Find all occurrences of "error"**  
     ```bash
-    grep -i "error" Linux_2k.log
+    grep -i "error" My_Linux.log
     ```
   - **Extract timestamps and log levels using awk**  
     ```bash
-    awk '{print $1, $2, $3}' Linux_2k.log
+    awk '{print $1, $2, $3}' My_Linux.log
     ```
   - **Replace all IP addresses with `[REDACTED]` for security**  
     ```bash
-    sed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[REDACTED]/g' Linux_2k.log
+    sed -E 's/[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[REDACTED]/g' My_Linux.log
     ```
   - **Find the most frequent log entries**  
     ```bash
-    awk '{print $3}' Linux_2k.log | sort | uniq -c | sort -nr | head -10
+    awk '{print $3}' My_Linux.log | sort | uniq -c | sort -nr | head -10
     ```
 
 ---
