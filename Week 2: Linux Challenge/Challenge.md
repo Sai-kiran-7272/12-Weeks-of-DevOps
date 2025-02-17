@@ -55,7 +55,7 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **2️⃣ File & Directory Permissions**  
 📖 Understand **ownership & permission levels** (`chmod`, `chown`, `ls -l`). 
 
-[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/File%20%26%20Directory%20Permissions.md)
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/File%20%26%20Directory%20Permission.md)
 
 🛠 **Task:**  
 - Create a **workspace** directory and a file  
