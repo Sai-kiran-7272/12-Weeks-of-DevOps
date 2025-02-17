@@ -178,9 +178,12 @@ You'll perform **real-world system administration tasks**, including:
 
 ## 🎯 **Bonus Tasks (Optional 🚀)**  
 💡 **Enhance your Linux skills with these extra challenges:**  
-✅ Find the **top 5 most common log messages** in `Linux_2k.log`  
+
+[Log File](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/My_Linux.log)
+
+✅ Find the **top 5 most common log messages** in `My_Linux.log`  
    ```bash
-   awk '{print $3}' Linux_2k.log | sort | uniq -c | sort -nr | head -5
+   awk '{print $3}' My_Linux.log | sort | uniq -c | sort -nr | head -5
    ```
 ✅ List all files **modified in the last 7 days**  
    ```bash
@@ -188,7 +191,7 @@ You'll perform **real-world system administration tasks**, including:
    ```
 ✅ Write a script to extract only **ERROR and WARNING** logs  
    ```bash
-   grep -E "ERROR|WARNING" Linux_2k.log > filtered_logs.txt
+   grep -E "ERROR|WARNING" My_Linux.log > filtered_logs.txt
    ```
 
 ---
