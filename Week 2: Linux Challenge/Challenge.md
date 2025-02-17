@@ -78,7 +78,7 @@ You'll perform **real-world system administration tasks**, including:
 ### 🔹 **3️⃣ Log File Analysis with AWK, Grep & Sed**  
 📖 Learn **log file processing** using **grep, awk, and sed**. 
 
-[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/Log%20File%20Analysis.md)
+[Notes](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/NOTES/Log%20File%20Analysis.md) | [Log File](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/My_Linux.log)
 
 🛠 **Task:**  
 - Download the sample log file:  
