@@ -2,7 +2,7 @@
 
 ## **🔍 Why is Log File Analysis Important in DevOps?**  
 
-[Your Log File -- My_Linux.log](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/My_Linux.log)
+[Your Log File -- My_Linux.log](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/blob/main/Week%202%3A%20Linux%20Challenge/My_Linux.log)
 
 In DevOps and system administration, log files act as a **black box recorder** for your system. They contain crucial information about:  
 
