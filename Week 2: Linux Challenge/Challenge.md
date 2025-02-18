@@ -201,7 +201,7 @@ You'll perform **real-world system administration tasks**, including:
 ## 📢 **How to Submit Your Work**  
 📌 **Step 1:** Write a **LinkedIn post** summarizing your **Week 2 experience**.  
 📌 **Step 2:** Include **screenshots or logs** showcasing your completed tasks.  
-📌 **Step 3:** Use **hashtags**: `#90DaysOfDevOps #LinuxAdmin #DevOps`  
+📌 **Step 3:** Use **hashtags**: `#90DaysOfDevOps #Learn2getherGrow2gether #LinuxAdmin #DevOps`  
 📌 **Step 4:** Share any **blog posts, GitHub repos, or articles** you create.  
 
 ---
