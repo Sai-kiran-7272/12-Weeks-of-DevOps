@@ -12,11 +12,11 @@ Welcome to the 12 Weeks of DevOps Challenge! This structured learning plan is de
 
 # 📅 Weekly Learning Plan
 
-🔹 Week 1: Networking Basics (OSI Model, TCP/IP, DNS, Load Balancers)
+🔹 [Week 1](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/tree/main/Week%201%3A%20Networking%20Challenge): Networking Basics (OSI Model, TCP/IP, DNS, Load Balancers)
 
-🔹 Week 2: Linux Essentials (Commands, Permissions, Shell Scripting)
+🔹 [Week 2](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/tree/main/Week%202%3A%20Linux%20Challenge): Linux Essentials (Commands, Permissions, Shell Scripting)
 
-🔹 Week 3: Git and GitHub (Version Control, Branching, Pull Requests)
+🔹 [Week 3](https://github.com/Sai-kiran-7272/12-Weeks-of-DevOps/tree/main/Week%203%3A%20GIT%20Challenge): Git and GitHub (Version Control, Branching, Pull Requests)
 
 🔹 Week 4: Containers (Docker, Docker Compose)
 
